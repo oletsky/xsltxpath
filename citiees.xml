@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="munchgrouping.xsl"?>
+<cities>
+    <city name="Paris" country="France"/>
+    <city name="Rome" country="Italy"/>
+    <city name="Lion" country="France"/>
+    <city name="Madrid" country="Spain"/>
+    <city name="Neapol" country="Italy"/>
+    <city name="Kyiv" country="Ukraine"/>
+</cities>

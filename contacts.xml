@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<?xml-stylesheet type="text/xsl" href="grouping20.xsl"?>
+<contacts>
+    <contact>
+        <firstname>Mike</firstname>
+        <lastname>Ivanov</lastname>
+        <country>USA</country>
+    </contact>
+    <contact>
+        <firstname>Anne</firstname>
+        <lastname>Kabyzdub</lastname>
+        <country>UK</country>
+    </contact>
+</contacts>
