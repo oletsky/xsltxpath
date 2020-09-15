@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<contacts>
+<contact>
+<firstname>Mike</firstname>
+<lastname>Ivanov</lastname>
+<country>USA</country>
+</contact>
+<contact>
+<firstname>Anne</firstname>
+<lastname>Kabyzdub</lastname>
+<country>UK</country>
+</contact>
+<contact>
+<firstname>Bob</firstname>
+<lastname>Sponge</lastname>
+<country>USA</country>
+</contact>
+</contacts>
+
