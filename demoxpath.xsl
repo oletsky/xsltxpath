@@ -6,7 +6,7 @@
 Практикум з XPath
 </xsl:text> </title></head>
             <body>
-                <xsl:for-each select="/catalog/@node()/parent::node()">
+                <xsl:for-each select="/catalog/node()">
                     <xsl:value-of select="name(.)"/>
                     <br/>
                 </xsl:for-each>
